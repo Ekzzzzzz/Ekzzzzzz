@@ -11,17 +11,17 @@
 👋 Hi, I'm **Erick Quiñones García**, a Full Stack Developer driven by the philosophy: *"If you can imagine it, you can create it."* My goal is to become a Senior Engineer capable of transforming complex ideas into scalable digital realities.
 
 ### 💡 What I Do  
-- 💻 **Backend Architect:** Proficient in **Java & Spring Boot** and **Node.js**. I also apply **Prolog** for logical programming and complex problem solving.
-- 🌐 **Frontend Explorer:** Experience with **React** and building interactive UIs. Currently mastering **Angular** to build robust enterprise-grade ecosystems.
+- 💻 **Backend Architect:** Proficient in **Java & Spring Boot** and **Node.js**. I also apply **Logic Programming (Prolog)** to solve complex algorithmic challenges.
+- 🌐 **Frontend Explorer:** Experience with **React** and building interactive UIs. Currently mastering **Angular** for enterprise-grade applications.
 - 🗄️ **Data Management:** Advanced handling of **SQL Server** and **MySQL** to ensure data integrity and high-scale performance.
 
 ### 🎯 Current Focus  
-- 🏋️‍♂️ **Personal Project:** Developing a high-scale **SaaS for Fitness Chains**, focused on management, automation, and user engagement.
-- 🛠️ **Deep Learning:** Mastering **C# / .NET** and **Azure Services** while leveraging my experience in **JavaScript/Node.js** for versatile software creation.
+- 🏋️‍♂️ **Personal Project:** Developing a high-scale **SaaS for Fitness Chains**, focused on management, automation, and user engagement using modern Full Stack architectures.
+- 🛠️ **Deep Learning:** Mastering **C# / .NET** and **Azure Services** to create robust enterprise software and integrate cloud-native solutions.
 
 ### 🚀 Looking For  
 - 💼 Opportunities to build **large-scale software** and solve real-world architectural challenges.
-- 🤝 Collaborations in projects involving **SaaS development, API integration, and Logic Programming**.
+- 🤝 Collaborations in projects involving **SaaS development, API orchestration, or Logic Systems**.
 
 <br>
 
@@ -57,7 +57,6 @@
   <h2 align="center">Database 🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60">
 </div>
 <br>
 
