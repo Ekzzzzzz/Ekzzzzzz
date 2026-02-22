@@ -11,17 +11,17 @@
 👋 Hi, I'm **Erick Quiñones García**, a Full Stack Developer driven by the philosophy: *"If you can imagine it, you can create it."* My goal is to become a Senior Engineer capable of transforming complex ideas into scalable digital realities.
 
 ### 💡 What I Do  
-- 💻 **Backend Architect:** Proficient in **Java & Spring Boot**, building the backbone of robust applications and complex logic.
-- 🌐 **Frontend Explorer:** Experience with **React** and building interactive UIs. Currently mastering **Angular** to expand my frontend ecosystem.
+- 💻 **Backend Architect:** Proficient in **Java & Spring Boot** and **Node.js**. I also apply **Prolog** for logical programming and complex problem solving.
+- 🌐 **Frontend Explorer:** Experience with **React** and building interactive UIs. Currently mastering **Angular** to build robust enterprise-grade ecosystems.
 - 🗄️ **Data Management:** Advanced handling of **SQL Server** and **MySQL** to ensure data integrity and high-scale performance.
 
 ### 🎯 Current Focus  
 - 🏋️‍♂️ **Personal Project:** Developing a high-scale **SaaS for Fitness Chains**, focused on management, automation, and user engagement.
-- 🛠️ **Deep Learning:** Mastering **C# / .NET** and **Azure Services** to create enterprise-grade software and SaaS solutions.
+- 🛠️ **Deep Learning:** Mastering **C# / .NET** and **Azure Services** while leveraging my experience in **JavaScript/Node.js** for versatile software creation.
 
 ### 🚀 Looking For  
 - 💼 Opportunities to build **large-scale software** and solve real-world architectural challenges.
-- 🤝 Collaborations that push the boundaries of what's possible in web and mobile technologies.
+- 🤝 Collaborations in projects involving **SaaS development, API integration, and Logic Programming**.
 
 <br>
 
@@ -29,6 +29,9 @@
   <h2 align="center">Languages 🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" alt="Prolog" width="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60">
 </div>
 <br>
 
@@ -45,8 +48,8 @@
 <div align="center">
   <h2 align="center">Backend Technologies 🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Boot" width="60">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="60">
 </div>
 <br>
 
@@ -54,6 +57,7 @@
   <h2 align="center">Database 🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60">
 </div>
 <br>
 
