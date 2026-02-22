@@ -1,18 +1,19 @@
-<p align="center">
-  
-</p>
+<!--Header Image-->
+<p align="center"> </p>
 
 
+<!--Header Name GIF or Animation-->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Erick+Quiñones;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 
+<!--GIF -->
 <div style="display: flex; justify-content: flex-end;">
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation"   />    
 </div>
 
-
+<!--- About me-->
 ## 🚀 About Me  
 
 👋 Hi, I'm **Erick Quiñones García**, an enthusiastic developer passionate about **software development and web technologies**. I love building projects that solve real-world problems and constantly learning new ways to improve my craft.  
@@ -26,7 +27,7 @@
 
 <br><br>
 
-
+<!---Language-->
 <div align="center">
   <h2 align="center">Language🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="65">
@@ -36,6 +37,7 @@
 <br>
 
 
+<!--FrontEnd Technologies-->
 <div align="center">
   <h2 align="center">FrontEnd Technologies🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="65">
@@ -47,13 +49,14 @@
 <br>
 
 
+<!--Backend Tecnologies-->
 <div align="center">
   <h2 align="center">Backend Technologies🚀</h2>
   <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="70" height="75">
 </div>
 <br>
 
-
+<!--Database-->
 <div align="center">
   <h2 align="center">Database🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="65">
@@ -61,21 +64,21 @@
 </div>
 <br>
 
-
+<!--Run Time Environment-->
 <div align="center">
     <h2 align="center">Run Time Environment🚀</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="65">
 </div>
 <br>
 
-
+<!--API Development and Testing-->
 <div align="center">
   <h2 align="center">API Development and Testing🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="65">
 </div>
 <br>
 
-
+<!--IDE'S-->
 <div align="center">
   <h2 align="center">IDE's 🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="65">
@@ -83,7 +86,7 @@
 </div>
 <br><br>
 
-
+<!-- Visitor's -->
 ----
 <div id="user-content-toc">
   <ul align="center">
@@ -95,6 +98,8 @@
 </div>
 
 
+<!-- Connect with me TEXT -->
+<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
@@ -102,6 +107,7 @@
 </div>
 
 
+<!--Connect With ME icons and links-->
 <p align="center">
   <a href="https://www.linkedin.com/in/erick-quinones-garcia" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="https://x.com/TU_USUARIO" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
@@ -109,14 +115,15 @@
 </p>
 
 
-
+<!-- Github Stats 1-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ekzzzzzz&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" alt="GitHub Stats" />
 </p>
 
 
+<!-- Github Stats 2-->
 <p align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekzzzzzz&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
 </p>
 
 <!--Footer GIF-->
