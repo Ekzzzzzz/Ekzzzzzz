@@ -113,7 +113,7 @@
 
 <!-- Github Stats 1-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ekzzzzzz&show_icons=true&theme=tokyonight&locale=es" alt="GitHub Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Ekzzzzzz&cc=222&tc=fff&ic=fff&bc=000" alt="GitHub Stats" />
 </p>
 
 
