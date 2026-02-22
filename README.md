@@ -88,13 +88,9 @@
 
 <!-- Visitor's -->
 ----
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Visitor's Count 👀</h2></summary>
-  </ul>
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/TU_USUARIO_GITHUB/count.svg" alt="Visitor Badge"/>
-  </p>
+<div align="center">
+  <h2>Visitor's Count 👀</h2>
+  <img src="https://komarev.com/ghpvc/?username=Ekzzzzzz&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Badge" />
 </div>
 
 
